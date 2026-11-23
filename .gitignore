@@ -18,6 +18,9 @@ venv/
 Thumbs.db
 .vscode/
 
+# Office temp / lock files
+~$*
+
 # Third-party source files (copyrighted — keep local, don't redistribute)
 data_sources/*.pdf
 data_sources/*.xlsx
