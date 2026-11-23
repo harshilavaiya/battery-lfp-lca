@@ -1,0 +1,19 @@
+# openLCA database exports / big binaries
+*.zolca
+*.mpack
+*.mdb
+*.accdb
+
+# openLCA workspace (should never live in here, but just in case)
+openLCA-data-*/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
