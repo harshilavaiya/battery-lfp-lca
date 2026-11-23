@@ -18,5 +18,6 @@ venv/
 Thumbs.db
 .vscode/
 
-# Third-party source PDFs (copyrighted — keep local, don't redistribute)
+# Third-party source files (copyrighted — keep local, don't redistribute)
 data_sources/*.pdf
+data_sources/*.xlsx
